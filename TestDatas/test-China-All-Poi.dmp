@@ -1,0 +1,103 @@
+Category ID, Name, Address, Phone, X, Y, HasIcon, Icon, RichInfoType, IsCamera, Speed, SpeedType, CameraType, ByteOffset
+7310, 正新轮胎, , , 10004923, 2169670, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25589
+7310, Zhengxin Tires, , , 10004923, 2169670, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25607
+7310, 红丰汽车维修中心, , , 10005501, 2169803, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25626
+7310, Hongfeng Automobile Maintenance Center, , , 10005501, 2169803, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25646
+7310, 全达汽配汽修, , , 10006062, 2169988, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25669
+7310, Quanda Auto Parts Automobile Repair, , , 10006062, 2169988, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25690
+7310, 港汇进口汽车维修中心, , , 10042339, 2194797, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25719
+7310, Ganghui Import Automobile Maintenance Center, , , 10042339, 2194797, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25742
+7310, 吐三.汽车修理厂, , , 10042306, 2194808, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25773
+7310, Tusan. Automobile Repair Factory, , , 10042306, 2194808, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25795
+7310, 昌达汽修厂, , 86-691-5180899, 10042118, 2194823, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25820
+7310, Changda Automobile Repair Factory, , 86-691-5180899, 10042118, 2194823, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25848
+7310, 风顺汽车修理厂, , 86-691-5180038, 10042413, 2194839, NoIcon, 0, RichInformation, NoCamera, , , , 25880
+7310, Fengshun Automobile Repair Factory, , 86-691-5180038, 10042413, 2194839, NoIcon, 0, RichInformation, NoCamera, , , , 25912
+7310, 昆明湘农勐海县轮胎销售中心, , , 10042299, 2194849, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25948
+7310, Kunming Xiangnong Menghai Tires Sales Center, , , 10042299, 2194849, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 25977
+7310, 勐海鹏鸿汽修厂, , 86-691-5180351, 10042162, 2194860, NoIcon, 0, RichInformation, NoCamera, , , , 26007
+7310, Menghai Penghong Automobile Repair Factory, , 86-691-5180351, 10042162, 2194860, NoIcon, 0, RichInformation, NoCamera, , , , 26042
+7310, 石纪汽修, , 86-691-5126301, 10043608, 2194048, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26101
+7310, Shiji Automobile Repair, , 86-691-5126301, 10043608, 2194048, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26128
+7310, 石纪汽修 (005乡道), , 86-691-5126301, 10043766, 2194554, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26159
+7310, Shiji Automobile Repair (005 Country Road), , 86-691-5126301, 10043766, 2194554, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26193
+7310, 西双版纳昆曼运输有限责任公司勐海分公司保修厂, , 86-691-2137545, 10043443, 2194637, NoIcon, 0, RichInformation, NoCamera, , , , 26233
+7310, Sipsongpanna Kunman Transport Co., Ltd. Menghai Branch Maintenance Workshop, , 86-691-2137545, 10043443, 2194637, NoIcon, 0, RichInformation, NoCamera, , , , 26287
+7310, 荣光汽修, , 86-691-5181088, 10042669, 2194780, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26349
+7310, Rongguang Automobile Repair, , 86-691-5181088, 10042669, 2194780, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26375
+7310, 勐海县久鑫汽车配件经营部, , , 10042619, 2194827, NoIcon, 0, RichInformation, NoCamera, , , , 26406
+7310, Menghai Jiuxin Automobile Accessories Business Department, , , 10042619, 2194827, NoIcon, 0, RichInformation, NoCamera, , , , 26437
+7310, 腾达汽配 (惠勐公路), , , 10042821, 2194868, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26473
+7310, Tengda Auto Parts (Huimeng Highway), , , 10042821, 2194868, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26498
+7310, 勐海雄峰汽车维修中心, , 86-691-5180866, 10043212, 2194876, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26531
+7310, Menghaixiong Peak Automobile Maintenance Center, , 86-691-5180866, 10043212, 2194876, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26564
+7310, 福顺汽车修理厂, , 86-691-5181118, 10043068, 2194891, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26606
+7310, Fushun Automobile Repair Factory, , 86-691-5181118, 10043068, 2194891, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26635
+7310, 勐海进口汽车维修中心, , 86-691-5180866, 10043211, 2194895, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26667
+7310, Menghai Import Automobile Maintenance Center, , 86-691-5180866, 10043211, 2194895, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26700
+7310, 亿源汽车修配中心, , , 10043378, 2194904, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26740
+7310, Yiyuan Automobile Fitting Center, , , 10043378, 2194904, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26760
+7310, 勐海县友达汽车修理厂, , 86-691-5181077, 10043096, 2194940, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26825
+7310, Menghai Youda Automobile Repair Factory, , 86-691-5181077, 10043096, 2194940, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26858
+7310, 四川汽车电器, , 86-691-5123643, 10043047, 2194948, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26893
+7310, Sichuan Automobile Electrical Appliance, , 86-691-5123643, 10043047, 2194948, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26921
+7310, 凯成汽车修配行, , 86-691-5180988, 10043096, 2194975, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26957
+7310, Kaicheng Automobile Fitting Hang, , 86-691-5180988, 10043096, 2194975, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 26987
+7310, 宝霖汽修厂, , , 10042648, 2195066, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 27021
+7310, Baolin Automobile Repair Factory, , , 10042648, 2195066, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 27040
+7310, 超瑞汽修厂, , 86-691-5123666, 10043735, 2195557, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 27064
+7310, Chaorui Automobile Repair Factory, , 86-691-5123666, 10043735, 2195557, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 27093
+7310, 友鑫我爱我车专业汽车美容, , , 10027181, 2198387, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 27126
+7310, Youxinwo Aiwoche Profession Automobile Beauty, , , 10027181, 2198387, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 27154
+10002, 大个洗车行, , , 13184762, 4729360, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129500
+10002, Dage Car Wash Store, , , 13184762, 4729360, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129519
+10002, 小雨洗车行, , , 13202233, 4725005, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129540
+10002, Flurry Car Wash Store, , , 13202233, 4725005, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129559
+10002, 海天无痕洗车行, , , 13202267, 4724949, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129583
+10002, Haitian Wuhen Car Wash Store, , , 13202267, 4724949, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129605
+10002, 正大洗车厂, , 86-454-2675333, 13203177, 4725898, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129631
+10002, Zhengda Car Washing Factory, , 86-454-2675333, 13203177, 4725898, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129658
+10002, 嘉汉汽车精品洗车行, , 86-454-2710345, 13203559, 4725543, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129691
+10002, Jiahan Automobile Boutique Car Wash Store, , 86-454-2710345, 13203559, 4725543, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129722
+10002, 阳光洗车行, , , 13252041, 4765166, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129759
+10002, Sunny Car Wash Store, , , 13252041, 4765166, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129778
+10002, 泷泰洗车行, , , 13262008, 4725973, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129800
+10002, Longtai Car Wash Store, , , 13262008, 4725973, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129820
+10002, 洁净洗车场, , , 13262592, 4725755, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129842
+10002, Jiejing Car Wash, , , 13262592, 4725755, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129861
+10002, 车贵族洗车行, , , 13262711, 4726042, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129925
+10002, Cheguizu Car Wash Store, , , 13262711, 4726042, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129945
+10002, 兴达洗车场, , , 13262764, 4725866, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129970
+10002, Xingda Auto Washing Station, , , 13262764, 4725866, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867129989
+10002, 车来车往洗车场, , , 13263403, 4725029, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130013
+10002, Chelaichewang Car Wash, , , 13263403, 4725029, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130035
+10002, 聚鑫洗车行, , 86-454-5802078, 13264218, 4726084, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130060
+10002, Juxin Car Wash Store, , 86-454-5802078, 13264218, 4726084, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130087
+10002, 泷亿洗车厂, , , 13264455, 4726047, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130117
+10002, Longyi Car Washing Factory, , , 13264455, 4726047, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130137
+10002, 悦鑫洗车行, , 86-454-5802555, 13264477, 4726055, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130161
+10002, Yuexin Car Wash Store, , 86-454-5802555, 13264477, 4726055, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130189
+10002, 顺利洗车行, , , 13264598, 4726050, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130220
+10002, Shunli Car Wash Store, , , 13264598, 4726050, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130239
+10002, 起航洗车美容, , , 13264674, 4726072, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130261
+10002, Qihang Car Washing and Beauty, , , 13264674, 4726072, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130282
+10002, 诚信洗车场, , , 13264719, 4726018, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130308
+10002, Integrity Car Wash, , , 13264719, 4726018, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130327
+10002, 路路顺洗车行 (佳抚路), , , 13264822, 4726159, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130371
+10002, Road Lushun Car Wash Store (Jiafu Road), , , 13264822, 4726159, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130396
+10002, 名尚洗车会所, , , 13311590, 4754601, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130426
+10002, Mingshang Car Washing Chamber, , , 13311590, 4754601, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130446
+10002, 德丰洗车城, , , 13312302, 4754858, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130473
+10002, Defeng Car Washing City, , , 13312302, 4754858, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130492
+10002, 祥丽洗车厂, , , 13317757, 4798003, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130515
+10002, Xiangli Car Washing Factory, , , 13317757, 4798003, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130534
+10002, 金水源无痕洗车行, , , 13428987, 4836114, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130558
+10002, Jinshui Yuanwuhen Car Wash Store, , , 13428987, 4836114, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130582
+10002, 铁子洗车行, , , 13429073, 4836091, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130611
+10002, Tiezi Car Wash Store, , , 13429073, 4836091, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130630
+10002, 清风洗车行, , , 13429471, 4835778, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130653
+10002, Qingfeng Car Wash Store, , , 13429471, 4835778, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130672
+10002, 新鑫洗车行, , , 13429888, 4835677, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130693
+10002, Xinxin Car Wash Store, , , 13429888, 4835677, NoIcon, 0, NoAdditionalInformation, NoCamera, , , , 867130711
+10002, 鑫淼汽车美容洗车行, , , 13430156, 4836575, NoIcon, 0, RichInformation, NoCamera, , , , 867130732
+10002, Xinmiao Automobile Beauty Car Wash Store, , , 13430156, 4836575, NoIcon, 0, RichInformation, NoCamera, , , , 867130758
